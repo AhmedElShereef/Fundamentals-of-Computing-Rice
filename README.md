@@ -1,2 +1,2 @@
-# Fundamentals-of-Computiong
+# Fundamentals-of-Computing
 Fundamentals of Computing Specialization - Coursera
