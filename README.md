@@ -1,3 +1,4 @@
 # Fundamentals-of-Computing
-POSTPONED\n 
+POSTPONED
+
 Fundamentals of Computing Specialization - Coursera
